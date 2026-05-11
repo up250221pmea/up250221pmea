@@ -1,5 +1,8 @@
 # Hola compañero
+## Bienvenido a mi primer repositorio de GitHub
 
+### Me presento, soy estudiante de Ingienria en Tecnologias de la informacion, actualmente me encuentro en el segundo cuatrimestre de mi carrera.
+  - Mi nombre es Eliut Piña
 <!--
 **up250221pmea/up250221pmea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
