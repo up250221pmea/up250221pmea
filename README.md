@@ -1,7 +1,7 @@
 # Hola compañero
 ## Bienvenido a mi primer repositorio de GitHub
 
-### Me presento, soy estudiante de Ingienria en Tecnologias de la informacion, actualmente me encuentro en el segundo cuatrimestre de mi carrera.
+### Me presento, soy estudiante de Ingeneria en Tecnologias de la informacion, actualmente me encuentro en el segundo cuatrimestre de mi carrera.
 
   - Mi nombre es Eliut Piña, pero me gusta que me digan Piña.
   - Estoy estudiando en la Universidad Politecnica de Aguascalientes.
