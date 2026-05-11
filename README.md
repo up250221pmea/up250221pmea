@@ -2,9 +2,9 @@
 ## Bienvenido a mi primer repositorio de GitHub
 
 ### Me presento, soy estudiante de Ingienria en Tecnologias de la informacion, actualmente me encuentro en el segundo cuatrimestre de mi carrera.
+
   - Mi nombre es Eliut Piña, pero me gusta que me digan Piña.
   - Estoy estudiando en la Universidad Politecnica de Aguascalientes.
-      - ![texto alternativo](https://tse2.mm.bing.net/th/id/OIP.UBnW35KDXlkI5YMGltm0xgHaEd?rs=1&pid=ImgDetMain&o=7&rm=3 "titulo opcional")
   - Aun estoy empezando en el mundo de las TI y no cuento con el conocimiento basico de cualquier otro estudiante.
 <!--
 **up250221pmea/up250221pmea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
