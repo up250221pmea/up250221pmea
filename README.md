@@ -4,7 +4,7 @@
 ### Me presento, soy estudiante de Ingienria en Tecnologias de la informacion, actualmente me encuentro en el segundo cuatrimestre de mi carrera.
   - Mi nombre es Eliut Piña, pero me gusta que me digan Piña.
   - Estoy estudiando en la Universidad Politecnica de Aguascalientes.
-      - ![texto alternativo](https://www.bing.com/images/search?view=detailV2&ccid=UBnW35KD&id=D1F1B0BBAEDA0E084E3719209CE9705DB6941EC4&thid=OIP.UBnW35KDXlkI5YMGltm0xgHaEd&mediaurl=https%3a%2f%2fupa.edu.mx%2fwp-content%2fuploads%2f2021%2f02%2fLogo_UPA.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.5019d6df92835e5908e5830696d9b4c6%3frik%3dxB6Utl1w6ZwgGQ%26pid%3dImgRaw%26r%3d0&exph=1040&expw=1726&q=logo+de+la+upa&mode=overlay&FORM=IQFRBA&ck=2D9F295B2E5C950DC5E85C18BB60C959&selectedIndex=0&idpp=serp&ajaxhist=0&ajaxserp=0)
+      - ![texto alternativo](https://www.bing.com/images/search?view=detailV2&ccid=UBnW35KD&id=D1F1B0BBAEDA0E084E3719209CE9705DB6941EC4&thid=OIP.UBnW35KDXlkI5YMGltm0xgHaEd&mediaurl=https%3a%2f%2fupa.edu.mx%2fwp-content%2fuploads%2f2021%2f02%2fLogo_UPA.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.5019d6df92835e5908e5830696d9b4c6%3frik%3dxB6Utl1w6ZwgGQ%26pid%3dImgRaw%26r%3d0&exph=1040&expw=1726&q=logo+de+la+upa&mode=overlay&FORM=IQFRBA&ck=2D9F295B2E5C950DC5E85C18BB60C959&selectedIndex=0&idpp=serp&ajaxhist=0&ajaxserp=0 "titulo opcional")
   - Aun estoy empezando en el mundo de las TI y no cuento con el conocimiento basico de cualquier otro estudiante.
 <!--
 **up250221pmea/up250221pmea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
