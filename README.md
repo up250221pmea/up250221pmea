@@ -1,4 +1,4 @@
-Hi there 👋
+*Hola compañero
 
 <!--
 **up250221pmea/up250221pmea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
