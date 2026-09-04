@@ -1,22 +1,42 @@
-# Hola compañero
-## Bienvenido a mi primer repositorio de GitHub
+# 👋 Hi, I'm Eliut Piña
 
-### Me presento, soy estudiante de Ingeneria en Tecnologias de la informacion, actualmente me encuentro en el segundo cuatrimestre de mi carrera.
+### 💻 Software Development Student
 
-  - Mi nombre es Eliut Piña, pero me gusta que me digan Piña.
-  - Estoy estudiando en la Universidad Politecnica de Aguascalientes.
-  - Aun estoy empezando en el mundo de las TI y no cuento con el conocimiento basico de cualquier otro estudiante.
-<!--
-**up250221pmea/up250221pmea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Development student at Universidad Politécnica de Aguascalientes, 
+currently building my foundations in programming and software development.
 
-Here are some ideas to get you started:
+I enjoy learning through practice, building projects, and continuously improving 
+my problem-solving and programming skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 Software Development student
+- 🐍 Currently working mainly with Python
+- 🌱 Currently learning Object-Oriented Programming (OOP)
+- 🗄️ Currently learning Databases
+- 🎨 Currently learning User Interface Design
+- 🔧 Using Git and GitHub for version control and project management
+- 🚀 Building my programming skills through personal projects and practice
+
+---
+
+## 🛠️ Skills & Technologies
+
+### Programming
+
+- 🐍 Python
+
+### Tools
+
+- 🔧 Git
+- 🐙 GitHub
+- 💻 Visual Studio Code
+
+### Currently Learning
+
+- 🏗️ Object-Oriented Programming (OOP)
+- 🗄️ Databases
+- 🎨 User Interface Design
+
