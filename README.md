@@ -3,7 +3,7 @@
 ### 💻 Software Development Student
 
 I'm a Software Development student at Universidad Politécnica de Aguascalientes, 
-currently building my foundations in programming and software development.
+currently strengthening my foundations in programming and software development.
 
 I enjoy learning through practice, building projects, and continuously improving 
 my problem-solving and programming skills.
@@ -13,10 +13,8 @@ my problem-solving and programming skills.
 ## 🧑‍💻 About Me
 
 - 🎓 Software Development student
-- 🐍 Currently working mainly with Python
-- 🌱 Currently learning Object-Oriented Programming (OOP)
-- 🗄️ Currently learning Databases
-- 🎨 Currently learning User Interface Design
+- 🐍 Mainly working with Python
+- 🌱 Currently expanding my knowledge in software development
 - 🔧 Using Git and GitHub for version control and project management
 - 🚀 Building my programming skills through personal projects and practice
 
